@@ -1,2 +1,5 @@
 # fornt-end
-berisi file  CSS &amp; Javascript 
+berisi file  
+- CSS layouting
+- Javascript Dasar
+- Javascript DOM
