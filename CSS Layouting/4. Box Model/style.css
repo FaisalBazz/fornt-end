@@ -1,0 +1,31 @@
+div.pertama{
+	width: 200px;
+	height: 200px;
+	background-color: coral;
+	margin: 20px auto;
+	padding: 50px;
+	/*solid, dotted, dashed, double*/
+	border-left : 5px double black;
+	border-right: 10px dashed royalblue;
+	overflow: auto;
+}
+
+/*Box-Sizing*/
+
+div{
+	width: 600px;
+	margin: 10px auto;
+	box-sizing: border-box;
+}
+
+.satu{
+	background-color: royalblue;
+	padding: 10px;
+	border: 1px solid red;
+}
+
+.dua{
+	background-color: lightgreen;
+	padding: 30px;
+	border: 10px dashed orangered;
+}

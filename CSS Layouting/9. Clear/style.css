@@ -1,0 +1,34 @@
+.container{
+	margin: 10px auto;
+	width: 600px;
+	border: 2px solid black;
+}
+
+.container img{
+	width: 300px;
+	float: right;
+}
+
+.container p{
+	padding: 10px;
+}
+
+.dua{
+	width: 400px;
+	margin: auto;
+	background-color: salmon;
+	border: 2px solid black;
+}
+
+.dua img{
+	width: 200px;
+	float: left;
+}
+
+.dua p{
+	padding: 10px;
+}
+
+.clear{
+	clear: left;
+}
